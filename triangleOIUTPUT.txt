@@ -1,0 +1,7 @@
+Emnter the base: 
+5
+Enter the heioght:
+10
+The are of the Traingle: 0.0sq m
+
+Process finished with exit code 0
