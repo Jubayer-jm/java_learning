@@ -1,0 +1,5 @@
+Enter an age: 
+20
+Valid voter
+
+Process finished with exit code 0
