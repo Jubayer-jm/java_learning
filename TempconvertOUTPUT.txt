@@ -1,0 +1,5 @@
+Enter the vale of c: 
+30
+F: 62.0
+
+Process finished with exit code 0
