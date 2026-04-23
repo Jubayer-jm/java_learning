@@ -1,0 +1,15 @@
+Enter any id: 
+1234
+Enter the tile name: 
+iphone 15
+Enter the price : 
+thirteen us dollars
+Enter the description: 
+this is the good quality
+Enter the category: 
+A
+id: 1234
+Title: iphone 15
+price: thirteen us dollars
+description: this is the good quality
+category: A
